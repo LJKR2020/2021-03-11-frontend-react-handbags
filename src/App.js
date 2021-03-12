@@ -68,7 +68,7 @@ function App() {
           <footer>
               <Tile
               title = {"The brand"}
-              paragraf1 = {"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aut blanditiis debitis eaque libero molestiae, odio quis quod repellat vero."}
+              paragraf1 = {"Lorem ipsum dolon sit amet, consectetur adipisicing elit. Asperiores aut blanditiis debitis eaque libero molestiae, odio quis quod repellat vero."}
               paragraf2 ={"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aspernatur consequuntur cumque dicta dignissimos harum nemo nesciunt quis quod, tenetur."}>
               </Tile>
               <Tile
