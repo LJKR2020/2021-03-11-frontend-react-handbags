@@ -1,11 +1,13 @@
 import React from "react";
 
-function Button (text, log) {
+function Button ({type, text, log, disable}) {
     return (
-        <div>
-
-        </div>
-    )
+        <button disabled={disable}
+                type={type}
+                onClick={() => console.log({log})}>
+            {text}
+        </button>
+    );
 }
 
 export default Button;
